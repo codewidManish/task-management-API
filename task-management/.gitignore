@@ -1,0 +1,24 @@
+# User Requested
+.env
+node_modules/
+logs/
+coverage/
+dist/
+build/
+
+# Dependencies
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Testing
+*.log
+npm-debug.log*
